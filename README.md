@@ -1,13 +1,26 @@
-# Portfolio-Template-Design
+# Portfolio Website Template
 
-## About The Project
+Welcome to my **Portfolio Template** repository! This project is a fully responsive portfolio website template designed to showcase skills, experience, and projects. It features a clean and modern design with support for both **light and dark modes**, making it visually appealing and user-friendly.
 
-### The objective of this project was to develop a simple portfolio design using HTML, CSS, and Javascript. Additionally, media queries were used to make this particular project responsive. A comprehensive test was conducted to ensure compatibility across multiple devices and browsers. Clean and easy-to-maintain code was written throughout. The code was also optimized to reduce page load times. All the code was tested and debugged to ensure proper functioning.
+## Features
 
-## Developed Using
-- HTML5
-- CSS
-- JavaScript
-- Media Queries
+- **Responsive Design**: The website is fully responsive and works seamlessly on all devices (desktop, tablet, and mobile).
+- **Dark and Light Mode**: Users can toggle between dark and light themes for a personalized viewing experience.
+- **Sections Included**:
+  - **About Me**: A brief introduction about yourself.
+  - **Experience**: Highlight your skills and experience.
+  - **Projects**: Showcase your recent projects with links to GitHub and live demos.
+  - **Contact**: Easy-to-access contact information.
+- **Interactive Elements**: Buttons, icons, and links are designed to enhance user interaction.
+- **Customizable**: Easily replace placeholder content with your own information.
+
+## Technologies Used
+
+- **HTML**: Structure of the website.
+- **CSS**: Styling and layout, including media queries for responsiveness.
+- **JavaScript**: Functionality for theme toggling and interactive elements.
+- **Media Queries**: Ensures the website is responsive across different screen sizes.
 
 ## Enjoy .....! <span>&#128151;😀</span>
+
+
