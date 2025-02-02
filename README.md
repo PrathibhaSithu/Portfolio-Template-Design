@@ -1,5 +1,6 @@
 # Portfolio Website Template
 
+# ⭐ If you like this project, don't forget to star the repository! ⭐
 Welcome to my **Portfolio Template** repository! This project is a fully responsive portfolio website template designed to showcase skills, experience, and projects. It features a clean and modern design with support for both **light and dark modes**, making it visually appealing and user-friendly.
 
 ## Features
